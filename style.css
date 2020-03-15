@@ -1,0 +1,25 @@
+p{
+    color: lightslategray;
+    text-align: center;
+}
+
+#refresh {
+    color:black ;
+    border-radius: 12px;
+    background-color: rgb(140, 208, 240);
+}
+
+#button1{
+
+    color:black ;
+    border-radius: 12px;
+    background-color: rgb(140, 240, 207);
+    
+}
+
+#map-btn{
+
+    color:black ;
+    border-radius: 12px;
+    background-color: rgb(140, 208, 240); 
+}
